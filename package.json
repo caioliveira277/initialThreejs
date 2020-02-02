@@ -23,6 +23,7 @@
     "three": "^0.113.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.2",
+    "tinyify": "^2.5.2"
   }
 }

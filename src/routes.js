@@ -8,7 +8,7 @@ routes.get("/", (req, res) => {
   });
 });
 
-routes.get("/example1", (req, res) => {
+routes.get("/examples", (req, res) => {
   res.render("index.html");
 });
 
